@@ -49,7 +49,7 @@
     gap: 120px;
     margin-left: 148px;
     margin-right: 148px;
-    margin-top: 64px;
+    margin-top: 80px;
 }
 
 .failures img {
@@ -67,4 +67,27 @@
 .failures p {
     font-size: 16px;
     margin-right: 220px;
+}
+
+
+
+/* section-2 style */
+.plans {
+    display: flex;
+    gap: 220px;
+    align-items: center;
+    margin-left: 190px;
+    margin-right: 0px;
+}
+
+.plans h3 {
+    font-size: 20px;
+    font: bold;
+    margin-bottom: 0px;
+}
+
+.my-plans {
+    text-align: center;
+    font-size: 48px;
+    margin-top: 80px;
 }

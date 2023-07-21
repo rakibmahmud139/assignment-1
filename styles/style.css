@@ -1,0 +1,42 @@
+/* header section style */
+
+.banner {
+    position: relative;
+}
+
+.banner img {
+    width: 1500px;
+}
+
+.banner-info {
+    position: absolute;
+    top: 136px;
+    left: 720px;
+    text-align: start;
+}
+
+.banner-info h3 {
+    font-size: 64px;
+    margin-bottom: 0px;
+    margin-right: 180px;
+}
+
+.banner-info p {
+    font-size: 16px;
+    margin-top: 24px;
+    margin-right: 264px;
+}
+
+.btn-primary {
+    background-color: #F15B22;
+    border: 0px;
+    padding: 16px;
+    margin-top: 24px;
+    border-radius: 8px;
+    color: white;
+}
+
+
+
+
+/* main section style */

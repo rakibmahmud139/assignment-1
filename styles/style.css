@@ -91,3 +91,40 @@
     font-size: 48px;
     margin-top: 80px;
 }
+
+
+
+/* section-3 style */
+.gradient {
+    background-image: url('/images/watch.png');
+}
+
+.positive {
+    position: relative;
+    margin-right: 0px;
+    margin-left: 190px;
+    margin-top: 80px;
+}
+
+.mindset {
+    position: absolute;
+    top: 16px;
+    left: 64px;
+}
+
+.mindset h3 {
+    font-size: 48px;
+    color: white;
+    margin-bottom: 16px;
+    margin-right: 700px;
+}
+
+.btn-secondary {
+    background-color: white;
+    color: #F15B22;
+    border: 0px;
+    padding: 12px;
+    margin-top: 24px;
+    border-radius: 8px;
+    font-size: 16px;
+}
